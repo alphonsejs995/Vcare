@@ -3,17 +3,17 @@
 VCARE
 
 
-VCARE is an AI-enhanced healthcare application designed to provide a comprehensive suite of medical services, including AI chatbot assistance, symptom checking, doctor consultation booking, emergency SOS calls, and more. The app focuses on providing accessible and efficient healthcare solutions, integrating government schemes, hospital room allocations, and health monitoring for various age groups.
+VCARE is an AI-enhanced healthcare application designed to provide a comprehensive suite of medical services, including AI chatbot assistance, symptom checking, doctor consultation booking, emergency SOS calls, and more. The app focuses on providing accessible and efficient healthcare solutions, integrating government schemes, hospital room allocations, and Ai translated application.
 
 Team Members
 
-Abhinav Manoj
+Abhinav Manoj(Backend Developer)
 
-Alphonse J S
+Alphonse J S(Front end Developer)
 
-Nandana Krishna
+Nandana Krishna (technical Lead)
 
-Ritu Deep
+Ritu Deep(UI/UX designer)
 
 
 Technologies Used
